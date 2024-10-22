@@ -1,4 +1,3 @@
 # Shopping Cart App
-A WEB App to track and help manage the regular shopping list items 
-
+A WEB App to track and manage to do
 Get it here : https://arka-add-to-cart.netlify.app/
