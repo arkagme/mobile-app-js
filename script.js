@@ -71,5 +71,9 @@ function appendItemToShoppingListEl(input) {
         newEl.style.backgroundColor = "green"
         newEl.style.color = "white"
     })
+    newEl.addEventListener("dblclick" , function(){
+        newEl.style.backgroundColor = "white"
+        newEl.style.color = "black"
+    })
     shoppingListEl.appendChild(newEl)
 }
